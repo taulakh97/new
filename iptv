@@ -1,110 +1,1104 @@
-#EXTINF:0, group-title="Punjabi",5aab TV
-http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",Akaal
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv-video=1500000-audio_AACL_eng_65600_120=65600.m3u8
-#EXTINF:0, group-title="Punjabi",Amar Ujala 
-https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",Aone Punjabi
-http://live.cloud6.in:1935/live2/aonetv/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",Apna Punjab
-http://cdn5.live247stream.com/apnapunjab/tv/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",BBC Toronto
-http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",Boogle Bollywood 
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:0, group-title="Punjabi",Canada One
-http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",Chakde TV
-http://streamer3.ultapulta.com:7050/
-#EXTINF:0, group-title="Punjabi",Channel Y
-http://cdn19.live247stream.com/channely/tv/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",Cine Voice
-http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
-#EXTINF:0, group-title="Punjabi",DD Punjabi
-http://z5ams.akamaized.net/ddpunjabi/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Punjabi",Desi Channel
-https://ayedewz3dnl6-hls-live.wmncdn.net/1167/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Punjabi",Desi Plus
-http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",E9 Punjabi
-http://cdn.samtv.ca/e9punjabi/index.m3u8
-#EXTINF:0, group-title="Punjabi",Ekta TV
-http://fastway.ddns.net:6421/fastway/alive/index.m3u8?token=fastwaytvstreams
-#EXTINF:0, group-title="Punjabi",Ekta TV Gurbani
-http://fastway.ddns.net:6421/fastway/glive/index.m3u8?token=fastwaytvstreams
-#EXTINF:0, group-title="Punjabi",Fastway Ent.
-http://fastway.ddns.net:6421/fastway/live10/index.m3u8?token=fastwaytvstreams
-#EXTINF:0, group-title="Punjabi",Fastway TV
-http://fastway.ddns.net:6421/fastway/live14/index.m3u8?token=fastwaytvstreams
-#EXTINF:0, group-title="Punjabi",Fateh TV Int.
-http://175.176.184.11:1935/live/fatehtv/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",Gabruu TV
-http://104.237.60.234/live/gabruutv.m3u8
-#EXTINF:0, group-title="Punjabi",GDNS Ludhiana
-http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
-#EXTINF:0, group-title="Punjabi",Global Punjab
-http://207.244.112.71/globalpunjabhls/live.m3u8
-#EXTINF:0, group-title="Punjabi",Go Punjabi HD
-http://capcobroadcaststream.in:1935/capco/gopunjabi/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",Hamdard TV
-http://cdn.samtv.ca/hamdard/index.m3u8
-#EXTINF:0, group-title="Punjabi",India News PB
-https://d3cjrhqx3ygiqt.cloudfront.net/abr/ngrp:newspunjab_all/master.m3u8
-#EXTINF:0, group-title="Punjabi",Jhumar TV
-http://live-23.viewer.dacast.com/i/dclive_1@42723/index_150_av-p.m3u8?sd=6&rebase=on
-#EXTINF:0, group-title="Punjabi",Jujhar TV
-http://172.104.54.227:1935/capco/jujhartv/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",Kanshi TV
-http://live.kanshitv.co.uk/mobile/kanshitvkey_high/index.m3u8
-#EXTINF:0, group-title="Punjabi",Life Punjabi
-http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
-#EXTINF:0, group-title="Punjabi",Zee Punjabi
-http://z5ams.akamaized.net/punjabi/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Punjabi",Wah Punjabi
-http://cdn.samtv.ca/wahpunjabi/index.m3u8
-#EXTINF:0, group-title="Punjabi",TV 16 Toronto
-http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",TV Punjab
-http://cdn.samtv.ca/tvpunjab/index.m3u8
-#EXTINF:0, group-title="Punjabi",TV84
-http://stream2.svbllc.com:1935/tv84/tv84.stream/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",Tehlka TV
-http://162.244.80.110:1935/amarpadda1/live/livestream/chunklist.m3u
-#EXTINF:0, group-title="Punjabi",Subrang TV USA
-http://cdn61.liveonlineservices.com/hls/subrang.m3u8
-#EXTINF:0, group-title="Punjabi",Steelbird Music
-http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",Toronto 360
-http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",SSTV
-http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Punjabi",Sardari TV
-http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",Sangat TV
-http://sangattv.flashmediacast.com:1975/live/livestream/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",Sabrang TV
-http://sydney.live247stream.com:8081/sabrang/tv/sabrang/stream1/chunks.m3u8
-#EXTINF:0, group-title="Punjabi",Saint TV
-http://159.203.9.134/hls/saint_tv/saint_tv.m3u8
-#EXTINF:0, group-title="Punjabi",Punjab TV
-http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
-#EXTINF:0, group-title="Punjabi",Punjabi Sargarmia
-http://45.248.164.243:8080/pbisargarmian/index.m3u8
-#EXTINF:0, group-title="Punjabi",Punjabi Tadkaa
-http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
-#EXTINF:0, group-title="Punjabi",Prime Asia
-http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Punjabi",Prime Canada TV
-http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
-#EXTINF:0, group-title="Punjabi",PTN 24
-http://cdn.samtv.ca/ptv24/index.m3u8
-#EXTINF:0, group-title="Punjabi",PTV Pardesi
-http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
-#EXTINF:0, group-title="Punjabi",Pitaara
-https://livepitaara.planetcast.in/pitaaraTV.m3u8
-#EXTINF:0, group-title="Punjabi",PBN Music
-http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
-#EXTINF:0, group-title="Punjabi",mh1 News
-http://mhonestream.in:1935/mhone/mhonenews/index.m3u8
-#EXTINF:0, group-title="Punjabi",mh1 Shardha
-http://mhonestream.in:1935/mhone/mhoneshraddha/index.m3u8
+#EXTM3U
+#EXTINF:-1,IN | & FLIX HD
+http://directtv1.xyz:80/Freddie/Freddie/134860
+#EXTINF:-1,IN | & Pictures HD
+http://directtv1.xyz:80/Freddie/Freddie/49602
+#EXTINF:-1,IN | & PICTURES HD
+http://directtv1.xyz:80/Freddie/Freddie/134827
+#EXTINF:-1,IN | & PICTURES-HD
+http://directtv1.xyz:80/Freddie/Freddie/134828
+#EXTINF:-1,IN | & xplore HD
+http://directtv1.xyz:80/Freddie/Freddie/49682
+#EXTINF:-1,IN | & XPLORE HD
+http://directtv1.xyz:80/Freddie/Freddie/134844
+#EXTINF:-1,IN | &Flix HD
+http://directtv1.xyz:80/Freddie/Freddie/49598
+#EXTINF:-1,IN | &Pictures HD
+http://directtv1.xyz:80/Freddie/Freddie/49597
+#EXTINF:-1,IN | &Prive HD
+http://directtv1.xyz:80/Freddie/Freddie/49596
+#EXTINF:-1,IN | &PRIVE HD
+http://directtv1.xyz:80/Freddie/Freddie/134861
+#EXTINF:-1,IN | &Tv HD
+http://directtv1.xyz:80/Freddie/Freddie/49595
+#EXTINF:-1,IN | &TV HD
+http://directtv1.xyz:80/Freddie/Freddie/134807
+#EXTINF:-1,IN | &TV-HD
+http://directtv1.xyz:80/Freddie/Freddie/134808
+#EXTINF:-1,IN | 9x Jalwa
+http://directtv1.xyz:80/Freddie/Freddie/49670
+#EXTINF:-1,IN | 9X JALWA
+http://directtv1.xyz:80/Freddie/Freddie/134870
+#EXTINF:-1,IN | 9x Jhakaas
+http://directtv1.xyz:80/Freddie/Freddie/49671
+#EXTINF:-1,IN | 9X MUSIC
+http://directtv1.xyz:80/Freddie/Freddie/134877
+#EXTINF:-1,IN | 9x Tashan
+http://directtv1.xyz:80/Freddie/Freddie/49660
+#EXTINF:-1,IN | 9xm
+http://directtv1.xyz:80/Freddie/Freddie/49593
+#EXTINF:-1,IN | AAJ TAK
+http://directtv1.xyz:80/Freddie/Freddie/49592
+#EXTINF:-1,IN | AAJ TAK HD
+http://directtv1.xyz:80/Freddie/Freddie/49643
+#EXTINF:-1,IN | AAJ TAK HD
+http://directtv1.xyz:80/Freddie/Freddie/134880
+#EXTINF:-1,IN | AAJ TAK TEZ
+http://directtv1.xyz:80/Freddie/Freddie/134890
+#EXTINF:-1,IN | ABP NEWS
+http://directtv1.xyz:80/Freddie/Freddie/49641
+#EXTINF:-1,IN | ABP NEWS
+http://directtv1.xyz:80/Freddie/Freddie/134881
+#EXTINF:-1,IN | Animal Planet HD
+http://directtv1.xyz:80/Freddie/Freddie/49591
+#EXTINF:-1,IN | ANIMAL PLANET HD
+http://directtv1.xyz:80/Freddie/Freddie/134900
+#EXTINF:-1,IN | Asianet HD
+http://directtv1.xyz:80/Freddie/Freddie/49589
+#EXTINF:-1,IN | AXN HD
+http://directtv1.xyz:80/Freddie/Freddie/49681
+#EXTINF:-1,IN | B4U AFLAM
+http://directtv1.xyz:80/Freddie/Freddie/49655
+#EXTINF:-1,IN | B4U AFLAM
+http://directtv1.xyz:80/Freddie/Freddie/134851
+#EXTINF:-1,IN | B4U MOVIES
+http://directtv1.xyz:80/Freddie/Freddie/134850
+#EXTINF:-1,IN | B4u Music
+http://directtv1.xyz:80/Freddie/Freddie/49588
+#EXTINF:-1,IN | B4U MUSIC
+http://directtv1.xyz:80/Freddie/Freddie/134874
+#EXTINF:-1,IN | Baby TV HD
+http://directtv1.xyz:80/Freddie/Freddie/49587
+#EXTINF:-1,IN | Balle Balle HD
+http://directtv1.xyz:80/Freddie/Freddie/49668
+#EXTINF:-1,IN | BBC EART HD
+http://directtv1.xyz:80/Freddie/Freddie/49628
+#EXTINF:-1,IN | BBO HD
+http://directtv1.xyz:80/Freddie/Freddie/49647
+#EXTINF:-1,IN | BBO HD
+http://directtv1.xyz:80/Freddie/Freddie/134842
+#EXTINF:-1,IN | BBO HD CLASSIC+
+http://directtv1.xyz:80/Freddie/Freddie/134843
+#EXTINF:-1,IN | Bhojpori Cinema
+http://directtv1.xyz:80/Freddie/Freddie/49586
+#EXTINF:-1,IN | Big Magic
+http://directtv1.xyz:80/Freddie/Freddie/49585
+#EXTINF:-1,IN | BINDASS
+http://directtv1.xyz:80/Freddie/Freddie/134875
+#EXTINF:-1,IN | Brit ASIA
+http://directtv1.xyz:80/Freddie/Freddie/49645
+#EXTINF:-1,IN | Cartoon Network
+http://directtv1.xyz:80/Freddie/Freddie/49584
+#EXTINF:-1,IN | Cinemachi Kids
+http://directtv1.xyz:80/Freddie/Freddie/49583
+#EXTINF:-1,IN | Cineplex HD
+http://directtv1.xyz:80/Freddie/Freddie/49582
+#EXTINF:-1,IN | CNBC AWAZ
+http://directtv1.xyz:80/Freddie/Freddie/134891
+#EXTINF:-1,IN | CNBC TV 18 hd
+http://directtv1.xyz:80/Freddie/Freddie/49638
+#EXTINF:-1,IN | CNBC TV18
+http://directtv1.xyz:80/Freddie/Freddie/134892
+#EXTINF:-1,IN | COLORS CINEPLEX HD
+http://directtv1.xyz:80/Freddie/Freddie/134841
+#EXTINF:-1,IN | Colors HD
+http://directtv1.xyz:80/Freddie/Freddie/49581
+#EXTINF:-1,IN | Colors HD
+http://directtv1.xyz:80/Freddie/Freddie/49606
+#EXTINF:-1,IN | COLORS HD
+http://directtv1.xyz:80/Freddie/Freddie/134816
+#EXTINF:-1,IN | COLORS HD |UK|
+http://directtv1.xyz:80/Freddie/Freddie/134818
+#EXTINF:-1,IN | Colors Infinty
+http://directtv1.xyz:80/Freddie/Freddie/49673
+#EXTINF:-1,IN | Colors Rishtey
+http://directtv1.xyz:80/Freddie/Freddie/49650
+#EXTINF:-1,IN | COLORS-HD
+http://directtv1.xyz:80/Freddie/Freddie/134817
+#EXTINF:-1,IN | COLORS-HD |UK|
+http://directtv1.xyz:80/Freddie/Freddie/134819
+#EXTINF:-1,IN | Colorsfinity HD
+http://directtv1.xyz:80/Freddie/Freddie/49580
+#EXTINF:-1,IN | Colours UK
+http://directtv1.xyz:80/Freddie/Freddie/49579
+#EXTINF:-1,IN | Dangal
+http://directtv1.xyz:80/Freddie/Freddie/49578
+#EXTINF:-1,IN | DD Arun
+http://directtv1.xyz:80/Freddie/Freddie/49577
+#EXTINF:-1,IN | DD Bharat
+http://directtv1.xyz:80/Freddie/Freddie/49576
+#EXTINF:-1,IN | DD Chandana
+http://directtv1.xyz:80/Freddie/Freddie/49575
+#EXTINF:-1,IN | DD Girner
+http://directtv1.xyz:80/Freddie/Freddie/49574
+#EXTINF:-1,IN | DD Kisan
+http://directtv1.xyz:80/Freddie/Freddie/49573
+#EXTINF:-1,IN | DD Sports
+http://directtv1.xyz:80/Freddie/Freddie/49572
+#EXTINF:-1,IN | ddindia
+http://directtv1.xyz:80/Freddie/Freddie/49603
+#EXTINF:-1,IN | ddnews
+http://directtv1.xyz:80/Freddie/Freddie/49604
+#EXTINF:-1,IN | DESI TV
+http://directtv1.xyz:80/Freddie/Freddie/49665
+#EXTINF:-1,IN | Discovery HD
+http://directtv1.xyz:80/Freddie/Freddie/49571
+#EXTINF:-1,IN | DISCOVERY HD
+http://directtv1.xyz:80/Freddie/Freddie/134901
+#EXTINF:-1,IN | Discovery Science HD
+http://directtv1.xyz:80/Freddie/Freddie/49570
+#EXTINF:-1,IN | Discovery Turbo
+http://directtv1.xyz:80/Freddie/Freddie/49569
+#EXTINF:-1,IN | Disney HD
+http://directtv1.xyz:80/Freddie/Freddie/49568
+#EXTINF:-1,IN | Epic HD
+http://directtv1.xyz:80/Freddie/Freddie/49567
+#EXTINF:-1,IN | Etv Uk
+http://directtv1.xyz:80/Freddie/Freddie/49566
+#EXTINF:-1,IN | Food Food
+http://directtv1.xyz:80/Freddie/Freddie/49652
+#EXTINF:-1,IN | FOOD FOOD
+http://directtv1.xyz:80/Freddie/Freddie/134903
+#EXTINF:-1,IN | Fox Life HD
+http://directtv1.xyz:80/Freddie/Freddie/49648
+#EXTINF:-1,IN | FOX LIFE HD
+http://directtv1.xyz:80/Freddie/Freddie/134894
+#EXTINF:-1,IN | Fyi HD
+http://directtv1.xyz:80/Freddie/Freddie/49672
+#EXTINF:-1,IN | GAUNDA PUNJAB
+http://directtv1.xyz:80/Freddie/Freddie/49657
+#EXTINF:-1,IN | GEO SUPER
+http://directtv1.xyz:80/Freddie/Freddie/134990
+#EXTINF:-1,IN | GEO-SUPER
+http://directtv1.xyz:80/Freddie/Freddie/134991
+#EXTINF:-1,IN | Hbo HD
+http://directtv1.xyz:80/Freddie/Freddie/49564
+#EXTINF:-1,IN | HBO-HD
+http://directtv1.xyz:80/Freddie/Freddie/134859
+#EXTINF:-1,IN | History HD
+http://directtv1.xyz:80/Freddie/Freddie/49563
+#EXTINF:-1,IN | HISTORY TV18 HD
+http://directtv1.xyz:80/Freddie/Freddie/134895
+#EXTINF:-1,IN | HOUSE FULL MOVIE
+http://directtv1.xyz:80/Freddie/Freddie/134849
+#EXTINF:-1,IN | India News
+http://directtv1.xyz:80/Freddie/Freddie/49562
+#EXTINF:-1,IN | INDIA TODAY
+http://directtv1.xyz:80/Freddie/Freddie/49636
+#EXTINF:-1,IN | INDIA TODAY
+http://directtv1.xyz:80/Freddie/Freddie/134885
+#EXTINF:-1,IN | India TV
+http://directtv1.xyz:80/Freddie/Freddie/49659
+#EXTINF:-1,IN | INDIA TV
+http://directtv1.xyz:80/Freddie/Freddie/134882
+#EXTINF:-1,IN | Jalwa
+http://directtv1.xyz:80/Freddie/Freddie/49561
+#EXTINF:-1,IN | Jaya Max
+http://directtv1.xyz:80/Freddie/Freddie/49674
+#EXTINF:-1,IN | Jaya Movies
+http://directtv1.xyz:80/Freddie/Freddie/49675
+#EXTINF:-1,IN | Jaya Plus
+http://directtv1.xyz:80/Freddie/Freddie/49676
+#EXTINF:-1,IN | Jaya Tv HD
+http://directtv1.xyz:80/Freddie/Freddie/49677
+#EXTINF:-1,IN | Living Food
+http://directtv1.xyz:80/Freddie/Freddie/49651
+#EXTINF:-1,IN | LIVING FOODS
+http://directtv1.xyz:80/Freddie/Freddie/134902
+#EXTINF:-1,IN | Lok Sabha
+http://directtv1.xyz:80/Freddie/Freddie/49560
+#EXTINF:-1,IN | Maha News
+http://directtv1.xyz:80/Freddie/Freddie/49679
+#EXTINF:-1,IN | Mahamovies
+http://directtv1.xyz:80/Freddie/Freddie/49559
+#EXTINF:-1,IN | Manorangan Movies
+http://directtv1.xyz:80/Freddie/Freddie/49664
+#EXTINF:-1,IN | Maste Music
+http://directtv1.xyz:80/Freddie/Freddie/49656
+#EXTINF:-1,IN | MASTIII IN
+http://directtv1.xyz:80/Freddie/Freddie/134876
+#EXTINF:-1,IN | MBC BOLLYWOOD HD
+http://directtv1.xyz:80/Freddie/Freddie/134845
+#EXTINF:-1,IN | MH1 MUSIC
+http://directtv1.xyz:80/Freddie/Freddie/49666
+#EXTINF:-1,IN | MINEPLEX HD
+http://directtv1.xyz:80/Freddie/Freddie/49594
+#EXTINF:-1,IN | MINIPLEX HD
+http://directtv1.xyz:80/Freddie/Freddie/134837
+#EXTINF:-1,IN | Mirror now
+http://directtv1.xyz:80/Freddie/Freddie/49649
+#EXTINF:-1,IN | MIRROR NOW
+http://directtv1.xyz:80/Freddie/Freddie/134886
+#EXTINF:-1,IN | MN PLUS HD
+http://directtv1.xyz:80/Freddie/Freddie/49635
+#EXTINF:-1,IN | MOVIES NOW HD
+http://directtv1.xyz:80/Freddie/Freddie/134866
+#EXTINF:-1,IN | MTV +
+http://directtv1.xyz:80/Freddie/Freddie/49634
+#EXTINF:-1,IN | MTV BEAT HD
+http://directtv1.xyz:80/Freddie/Freddie/49642
+#EXTINF:-1,IN | MTV BEATS HD
+http://directtv1.xyz:80/Freddie/Freddie/134871
+#EXTINF:-1,IN | MTV+ HD
+http://directtv1.xyz:80/Freddie/Freddie/134872
+#EXTINF:-1,IN | MUSIC INDIA
+http://directtv1.xyz:80/Freddie/Freddie/134878
+#EXTINF:-1,IN | Nat Geo Wild
+http://directtv1.xyz:80/Freddie/Freddie/49557
+#EXTINF:-1,IN | Nat Geo Wild HD
+http://directtv1.xyz:80/Freddie/Freddie/49609
+#EXTINF:-1,IN | NAT GEO WILD HD
+http://directtv1.xyz:80/Freddie/Freddie/134896
+#EXTINF:-1,IN | National Geographic
+http://directtv1.xyz:80/Freddie/Freddie/49556
+#EXTINF:-1,IN | NATIONAL GEOGRAPHIC
+http://directtv1.xyz:80/Freddie/Freddie/134897
+#EXTINF:-1,IN | National Geographic HD
+http://directtv1.xyz:80/Freddie/Freddie/49610
+#EXTINF:-1,IN | Ndtv india
+http://directtv1.xyz:80/Freddie/Freddie/49637
+#EXTINF:-1,IN | NDTV INDIA
+http://directtv1.xyz:80/Freddie/Freddie/134889
+#EXTINF:-1,IN | NEWS 18
+http://directtv1.xyz:80/Freddie/Freddie/134883
+#EXTINF:-1,IN | Nick HD
+http://directtv1.xyz:80/Freddie/Freddie/49685
+#EXTINF:-1,IN | Nick Jr (Hindi)
+http://directtv1.xyz:80/Freddie/Freddie/49678
+#EXTINF:-1,IN | Paigham Pashtoo
+http://directtv1.xyz:80/Freddie/Freddie/49555
+#EXTINF:-1,IN | Pardesi TV
+http://directtv1.xyz:80/Freddie/Freddie/49662
+#EXTINF:-1,IN | Peace TV English
+http://directtv1.xyz:80/Freddie/Freddie/49554
+#EXTINF:-1,IN | PITTARA
+http://directtv1.xyz:80/Freddie/Freddie/49667
+#EXTINF:-1,IN | Pogo (hindi)
+http://directtv1.xyz:80/Freddie/Freddie/49684
+#EXTINF:-1,IN | PRIME ASIA TV
+http://directtv1.xyz:80/Freddie/Freddie/49646
+#EXTINF:-1,IN | Ptc Chak De
+http://directtv1.xyz:80/Freddie/Freddie/49552
+#EXTINF:-1,IN | Ptc News
+http://directtv1.xyz:80/Freddie/Freddie/49551
+#EXTINF:-1,IN | PTV SPORTS
+http://directtv1.xyz:80/Freddie/Freddie/134992
+#EXTINF:-1,IN | PTV-SPORTS
+http://directtv1.xyz:80/Freddie/Freddie/134993
+#EXTINF:-1,IN | Public News
+http://directtv1.xyz:80/Freddie/Freddie/49550
+#EXTINF:-1,IN | Rajya Sabha
+http://directtv1.xyz:80/Freddie/Freddie/49549
+#EXTINF:-1,IN | Republic News
+http://directtv1.xyz:80/Freddie/Freddie/49548
+#EXTINF:-1,IN | REPUBLIC TV
+http://directtv1.xyz:80/Freddie/Freddie/134888
+#EXTINF:-1,IN | Romedy Now
+http://directtv1.xyz:80/Freddie/Freddie/49653
+#EXTINF:-1,IN | ROMEDY NOW HD
+http://directtv1.xyz:80/Freddie/Freddie/134867
+#EXTINF:-1,IN | SONY BBC EARTH HD
+http://directtv1.xyz:80/Freddie/Freddie/134898
+#EXTINF:-1,IN | Sony Espn HD
+http://directtv1.xyz:80/Freddie/Freddie/49624
+#EXTINF:-1,IN | Sony HD
+http://directtv1.xyz:80/Freddie/Freddie/49546
+#EXTINF:-1,IN | Sony HD
+http://directtv1.xyz:80/Freddie/Freddie/49613
+#EXTINF:-1,IN | SONY HD
+http://directtv1.xyz:80/Freddie/Freddie/134809
+#EXTINF:-1,IN | SONY MAX 2
+http://directtv1.xyz:80/Freddie/Freddie/49644
+#EXTINF:-1,IN | SONY MAX 2
+http://directtv1.xyz:80/Freddie/Freddie/134858
+#EXTINF:-1,IN | Sony Max HD
+http://directtv1.xyz:80/Freddie/Freddie/49545
+#EXTINF:-1,IN | Sony Max HD
+http://directtv1.xyz:80/Freddie/Freddie/49612
+#EXTINF:-1,IN | SONY MAX HD
+http://directtv1.xyz:80/Freddie/Freddie/134834
+#EXTINF:-1,IN | SONY MAX-HD
+http://directtv1.xyz:80/Freddie/Freddie/134835
+#EXTINF:-1,IN | SONY MAX-HD |UK|
+http://directtv1.xyz:80/Freddie/Freddie/134836
+#EXTINF:-1,IN | Sony Pal
+http://directtv1.xyz:80/Freddie/Freddie/49630
+#EXTINF:-1,IN | SONY PAL
+http://directtv1.xyz:80/Freddie/Freddie/134825
+#EXTINF:-1,IN | Sony Pix HD
+http://directtv1.xyz:80/Freddie/Freddie/49633
+#EXTINF:-1,IN | SONY PIX HD
+http://directtv1.xyz:80/Freddie/Freddie/134865
+#EXTINF:-1,IN | Sony Sab HD
+http://directtv1.xyz:80/Freddie/Freddie/49544
+#EXTINF:-1,IN | Sony Sab HD
+http://directtv1.xyz:80/Freddie/Freddie/49611
+#EXTINF:-1,IN | SONY SAB HD
+http://directtv1.xyz:80/Freddie/Freddie/134814
+#EXTINF:-1,IN | SONY SAB-HD
+http://directtv1.xyz:80/Freddie/Freddie/134815
+#EXTINF:-1,IN | SONY SIX HD
+http://directtv1.xyz:80/Freddie/Freddie/49558
+#EXTINF:-1,IN | Sony Six HD
+http://directtv1.xyz:80/Freddie/Freddie/49615
+#EXTINF:-1,IN | SONY SIX HD
+http://directtv1.xyz:80/Freddie/Freddie/134985
+#EXTINF:-1,IN | SONY SIX-HD
+http://directtv1.xyz:80/Freddie/Freddie/134986
+#EXTINF:-1,IN | SONY TEN 1 HD
+http://directtv1.xyz:80/Freddie/Freddie/134987
+#EXTINF:-1,IN | SONY TEN 2 HD
+http://directtv1.xyz:80/Freddie/Freddie/134988
+#EXTINF:-1,IN | SONY TEN 3 HD
+http://directtv1.xyz:80/Freddie/Freddie/134989
+#EXTINF:-1,IN | Sony Wah
+http://directtv1.xyz:80/Freddie/Freddie/49661
+#EXTINF:-1,IN | SONY WAH
+http://directtv1.xyz:80/Freddie/Freddie/134846
+#EXTINF:-1,IN | Sony yay (Hindi)
+http://directtv1.xyz:80/Freddie/Freddie/49654
+#EXTINF:-1,IN | SONY-HD
+http://directtv1.xyz:80/Freddie/Freddie/134810
+#EXTINF:-1,IN | SONY-HD |UK|
+http://directtv1.xyz:80/Freddie/Freddie/134811
+#EXTINF:-1,IN | SONY-WAH
+http://directtv1.xyz:80/Freddie/Freddie/134847
+#EXTINF:-1,IN | Star Bharat
+http://directtv1.xyz:80/Freddie/Freddie/49543
+#EXTINF:-1,IN | Star Bharat
+http://directtv1.xyz:80/Freddie/Freddie/49614
+#EXTINF:-1,IN | STAR BHARAT HD
+http://directtv1.xyz:80/Freddie/Freddie/134812
+#EXTINF:-1,IN | STAR BHARAT-HD
+http://directtv1.xyz:80/Freddie/Freddie/134813
+#EXTINF:-1,IN | STAR GOLD FHD |UK|
+http://directtv1.xyz:80/Freddie/Freddie/134831
+#EXTINF:-1,IN | Star Gold HD
+http://directtv1.xyz:80/Freddie/Freddie/49542
+#EXTINF:-1,IN | STAR GOLD HD
+http://directtv1.xyz:80/Freddie/Freddie/134829
+#EXTINF:-1,IN | Star Gold Select HD
+http://directtv1.xyz:80/Freddie/Freddie/49541
+#EXTINF:-1,IN | STAR GOLD SELECT HD
+http://directtv1.xyz:80/Freddie/Freddie/134832
+#EXTINF:-1,IN | STAR GOLD SELECT-HD
+http://directtv1.xyz:80/Freddie/Freddie/134833
+#EXTINF:-1,IN | STAR GOLD-HD
+http://directtv1.xyz:80/Freddie/Freddie/134830
+#EXTINF:-1,IN | Star Maa HD
+http://directtv1.xyz:80/Freddie/Freddie/49540
+#EXTINF:-1,IN | Star Maa HD
+http://directtv1.xyz:80/Freddie/Freddie/49619
+#EXTINF:-1,IN | STAR MOVIE HD
+http://directtv1.xyz:80/Freddie/Freddie/134862
+#EXTINF:-1,IN | Star Movies
+http://directtv1.xyz:80/Freddie/Freddie/49547
+#EXTINF:-1,IN | Star Movies HD
+http://directtv1.xyz:80/Freddie/Freddie/49539
+#EXTINF:-1,IN | Star Movies Select HD
+http://directtv1.xyz:80/Freddie/Freddie/49683
+#EXTINF:-1,IN | STAR MOVIES SELECT HD
+http://directtv1.xyz:80/Freddie/Freddie/134864
+#EXTINF:-1,IN | STAR PLUS FHD |UK|
+http://directtv1.xyz:80/Freddie/Freddie/134822
+#EXTINF:-1,IN | Star Plus HD
+http://directtv1.xyz:80/Freddie/Freddie/49538
+#EXTINF:-1,IN | Star Plus HD
+http://directtv1.xyz:80/Freddie/Freddie/49618
+#EXTINF:-1,IN | STAR PLUS HD
+http://directtv1.xyz:80/Freddie/Freddie/134820
+#EXTINF:-1,IN | STAR PLUS-HD
+http://directtv1.xyz:80/Freddie/Freddie/134821
+#EXTINF:-1,IN | STAR SPORT 1 (hINDI)
+http://directtv1.xyz:80/Freddie/Freddie/49680
+#EXTINF:-1,IN | STAR SPORT 1 HD
+http://directtv1.xyz:80/Freddie/Freddie/134978
+#EXTINF:-1,IN | STAR SPORT 1-HD
+http://directtv1.xyz:80/Freddie/Freddie/134979
+#EXTINF:-1,IN | STAR SPORT 1-HD (hindi)
+http://directtv1.xyz:80/Freddie/Freddie/134977
+#EXTINF:-1,IN | STAR SPORT 2 HD
+http://directtv1.xyz:80/Freddie/Freddie/134980
+#EXTINF:-1,IN | STAR SPORT 2-HD
+http://directtv1.xyz:80/Freddie/Freddie/134981
+#EXTINF:-1,IN | STAR SPORTS 1 (hindi)
+http://directtv1.xyz:80/Freddie/Freddie/134976
+#EXTINF:-1,IN | Star Sports 1 HD
+http://directtv1.xyz:80/Freddie/Freddie/49535
+#EXTINF:-1,IN | Star Sports 2 HD
+http://directtv1.xyz:80/Freddie/Freddie/49608
+#EXTINF:-1,IN | Star Sports Select 1 HD
+http://directtv1.xyz:80/Freddie/Freddie/49537
+#EXTINF:-1,IN | Star Sports Select 1 HD
+http://directtv1.xyz:80/Freddie/Freddie/49617
+#EXTINF:-1,IN | STAR SPORTS SELECT 1 HD
+http://directtv1.xyz:80/Freddie/Freddie/134982
+#EXTINF:-1,IN | Star Sports Select 2 HD
+http://directtv1.xyz:80/Freddie/Freddie/49536
+#EXTINF:-1,IN | Star Sports Select 2 HD
+http://directtv1.xyz:80/Freddie/Freddie/49616
+#EXTINF:-1,IN | STAR SPORTS SELECT 2 HD
+http://directtv1.xyz:80/Freddie/Freddie/134983
+#EXTINF:-1,IN | Star Sprots 1 HD
+http://directtv1.xyz:80/Freddie/Freddie/49620
+#EXTINF:-1,IN | Star Vijay HD
+http://directtv1.xyz:80/Freddie/Freddie/49621
+#EXTINF:-1,IN | Star Vijay Super
+http://directtv1.xyz:80/Freddie/Freddie/49534
+#EXTINF:-1,IN | Star Vijay Super
+http://directtv1.xyz:80/Freddie/Freddie/49622
+#EXTINF:-1,IN | Star World HD
+http://directtv1.xyz:80/Freddie/Freddie/49533
+#EXTINF:-1,IN | STAR WORLD HD
+http://directtv1.xyz:80/Freddie/Freddie/134863
+#EXTINF:-1,IN | Stars Sports 2 HD
+http://directtv1.xyz:80/Freddie/Freddie/49532
+#EXTINF:-1,IN | SteelBird Music
+http://directtv1.xyz:80/Freddie/Freddie/49663
+#EXTINF:-1,IN | Sun TV HD
+http://directtv1.xyz:80/Freddie/Freddie/49531
+#EXTINF:-1,IN | Surya Samachar
+http://directtv1.xyz:80/Freddie/Freddie/49530
+#EXTINF:-1,IN | T-SPORTS HD
+http://directtv1.xyz:80/Freddie/Freddie/134984
+#EXTINF:-1,IN | Ten 1 HD
+http://directtv1.xyz:80/Freddie/Freddie/49529
+#EXTINF:-1,IN | Ten 2 HD
+http://directtv1.xyz:80/Freddie/Freddie/49528
+#EXTINF:-1,IN | Ten 3 HD
+http://directtv1.xyz:80/Freddie/Freddie/49527
+#EXTINF:-1,IN | TEN SPORTS
+http://directtv1.xyz:80/Freddie/Freddie/134994
+#EXTINF:-1,IN | Time Now HD
+http://directtv1.xyz:80/Freddie/Freddie/49639
+#EXTINF:-1,IN | TIMES NOW
+http://directtv1.xyz:80/Freddie/Freddie/134887
+#EXTINF:-1,IN | Travel Xp HD
+http://directtv1.xyz:80/Freddie/Freddie/49526
+#EXTINF:-1,IN | Travel Xp HD
+http://directtv1.xyz:80/Freddie/Freddie/49627
+#EXTINF:-1,IN | TRAVEL XP HD
+http://directtv1.xyz:80/Freddie/Freddie/134899
+#EXTINF:-1,IN | UK- SONY MAX
+http://directtv1.xyz:80/Freddie/Freddie/49600
+#EXTINF:-1,IN | UK- SONY TV
+http://directtv1.xyz:80/Freddie/Freddie/49599
+#EXTINF:-1,IN | UTV ACTION
+http://directtv1.xyz:80/Freddie/Freddie/134857
+#EXTINF:-1,IN | UTV ACTION HD
+http://directtv1.xyz:80/Freddie/Freddie/49565
+#EXTINF:-1,IN | UTV HD
+http://directtv1.xyz:80/Freddie/Freddie/49553
+#EXTINF:-1,IN | UTV MOVIES HD
+http://directtv1.xyz:80/Freddie/Freddie/134848
+#EXTINF:-1,IN | Willow Cricket HD
+http://directtv1.xyz:80/Freddie/Freddie/49605
+#EXTINF:-1,IN | WOW CINEMA
+http://directtv1.xyz:80/Freddie/Freddie/134856
+#EXTINF:-1,IN | ZEE ACTION
+http://directtv1.xyz:80/Freddie/Freddie/49607
+#EXTINF:-1,IN | ZEE ACTION
+http://directtv1.xyz:80/Freddie/Freddie/134852
+#EXTINF:-1,IN | Zee Anmol Cinema
+http://directtv1.xyz:80/Freddie/Freddie/49632
+#EXTINF:-1,IN | ZEE ANMOL CINEMA
+http://directtv1.xyz:80/Freddie/Freddie/134855
+#EXTINF:-1,IN | Zee Bangla HD
+http://directtv1.xyz:80/Freddie/Freddie/49525
+#EXTINF:-1,IN | Zee Bangla HD
+http://directtv1.xyz:80/Freddie/Freddie/49626
+#EXTINF:-1,IN | Zee Bollywood
+http://directtv1.xyz:80/Freddie/Freddie/49631
+#EXTINF:-1,IN | ZEE BOLLYWOOD
+http://directtv1.xyz:80/Freddie/Freddie/134854
+#EXTINF:-1,IN | Zee Cafe HD
+http://directtv1.xyz:80/Freddie/Freddie/49658
+#EXTINF:-1,IN | Zee Cinema HD
+http://directtv1.xyz:80/Freddie/Freddie/49524
+#EXTINF:-1,IN | Zee Cinema HD
+http://directtv1.xyz:80/Freddie/Freddie/49625
+#EXTINF:-1,IN | ZEE CINEMA HD
+http://directtv1.xyz:80/Freddie/Freddie/134838
+#EXTINF:-1,IN | ZEE CINEMA HD |UK|
+http://directtv1.xyz:80/Freddie/Freddie/134840
+#EXTINF:-1,IN | ZEE CINEMA-HD
+http://directtv1.xyz:80/Freddie/Freddie/134839
+#EXTINF:-1,IN | ZEE CLASSIC
+http://directtv1.xyz:80/Freddie/Freddie/134853
+#EXTINF:-1,IN | Zee ETC
+http://directtv1.xyz:80/Freddie/Freddie/49669
+#EXTINF:-1,IN | Zee News
+http://directtv1.xyz:80/Freddie/Freddie/49523
+#EXTINF:-1,IN | ZEE NEWS
+http://directtv1.xyz:80/Freddie/Freddie/134884
+#EXTINF:-1,IN | Zee Talkies
+http://directtv1.xyz:80/Freddie/Freddie/49522
+#EXTINF:-1,IN | Zee Talkies HD
+http://directtv1.xyz:80/Freddie/Freddie/49623
+#EXTINF:-1,IN | Zee TV HD
+http://directtv1.xyz:80/Freddie/Freddie/49521
+#EXTINF:-1,IN | ZEE TV HD
+http://directtv1.xyz:80/Freddie/Freddie/134823
+#EXTINF:-1,IN | ZEE TV-HD
+http://directtv1.xyz:80/Freddie/Freddie/134824
+#EXTINF:-1,IN | Zing
+http://directtv1.xyz:80/Freddie/Freddie/49520
+#EXTINF:-1,IN | Zing
+http://directtv1.xyz:80/Freddie/Freddie/49601
+#EXTINF:-1,IN | ZING
+http://directtv1.xyz:80/Freddie/Freddie/134873
+#EXTINF:-1,IN | ZOOM
+http://directtv1.xyz:80/Freddie/Freddie/134869
+#EXTINF:-1,IN | Zoom TV
+http://directtv1.xyz:80/Freddie/Freddie/49629
+#EXTINF:-1,IND_India News Punjabi
+http://directtv1.xyz:80/Freddie/Freddie/172017
+#EXTINF:-1,PB |  5AAB TV
+http://directtv1.xyz:80/Freddie/Freddie/171938
+#EXTINF:-1,PB | 24 x 7 JAPJI SAHEB JI & CHAUPAI SAHEB JI
+http://directtv1.xyz:80/Freddie/Freddie/171955
+#EXTINF:-1,PB | 5aabmusic
+http://directtv1.xyz:80/Freddie/Freddie/171939
+#EXTINF:-1,PB | 5aabTV Gurbani HD
+http://directtv1.xyz:80/Freddie/Freddie/171940
+#EXTINF:-1,PB | 5aabTV kabaddi
+http://directtv1.xyz:80/Freddie/Freddie/171941
+#EXTINF:-1,PB | 7X Music HD
+http://directtv1.xyz:80/Freddie/Freddie/171980
+#EXTINF:-1,PB | 9X Tashan HD
+http://directtv1.xyz:80/Freddie/Freddie/172025
+#EXTINF:-1,PB | ABP Sanjha HD
+http://directtv1.xyz:80/Freddie/Freddie/171942
+#EXTINF:-1,PB | Akaal Channel (UK)
+http://directtv1.xyz:80/Freddie/Freddie/171943
+#EXTINF:-1,PB | Alph etc Punjabi(usa)
+http://directtv1.xyz:80/Freddie/Freddie/171944
+#EXTINF:-1,PB | Amrit Gurbani HD
+http://directtv1.xyz:80/Freddie/Freddie/171976
+#EXTINF:-1,PB | Amritvela TV HD
+http://directtv1.xyz:80/Freddie/Freddie/171945
+#EXTINF:-1,PB | AONE Punjabi HD
+http://directtv1.xyz:80/Freddie/Freddie/171946
+#EXTINF:-1,PB | apnapunjab TV HD
+http://directtv1.xyz:80/Freddie/Freddie/171947
+#EXTINF:-1,PB | Baaz_tv
+http://directtv1.xyz:80/Freddie/Freddie/171949
+#EXTINF:-1,PB | BALLE BALLE HD
+http://directtv1.xyz:80/Freddie/Freddie/171950
+#EXTINF:-1,PB | Boogle Bollywood
+http://directtv1.xyz:80/Freddie/Freddie/171981
+#EXTINF:-1,PB | Brit Asia HD
+http://directtv1.xyz:80/Freddie/Freddie/171951
+#EXTINF:-1,PB | Chanenl Y
+http://directtv1.xyz:80/Freddie/Freddie/171952
+#EXTINF:-1,PB | Channel Punjab HD
+http://directtv1.xyz:80/Freddie/Freddie/171953
+#EXTINF:-1,PB | CHARDIKLA TIME TV
+http://directtv1.xyz:80/Freddie/Freddie/171954
+#EXTINF:-1,PB | CINE VOICE HD
+http://directtv1.xyz:80/Freddie/Freddie/171956
+#EXTINF:-1,PB | DD Punjabi
+http://directtv1.xyz:80/Freddie/Freddie/171957
+#EXTINF:-1,PB | DESI CHANNEL HD
+http://directtv1.xyz:80/Freddie/Freddie/171958
+#EXTINF:-1,PB | Dil Apna Punjabi
+http://directtv1.xyz:80/Freddie/Freddie/171959
+#EXTINF:-1,PB | Ek Onkar HD
+http://directtv1.xyz:80/Freddie/Freddie/172006
+#EXTINF:-1,PB | FASTWAY NEWS
+http://directtv1.xyz:80/Freddie/Freddie/171960
+#EXTINF:-1,PB | Fastway TV
+http://directtv1.xyz:80/Freddie/Freddie/171961
+#EXTINF:-1,PB | Garv Gurban HD
+http://directtv1.xyz:80/Freddie/Freddie/171962
+#EXTINF:-1,PB | Garv Plunajbi HD
+http://directtv1.xyz:80/Freddie/Freddie/172008
+#EXTINF:-1,PB | GDNS Ludhiana
+http://directtv1.xyz:80/Freddie/Freddie/171963
+#EXTINF:-1,PB | GLOBAL Punjab HD
+http://directtv1.xyz:80/Freddie/Freddie/171964
+#EXTINF:-1,PB | GUBRU TV HD
+http://directtv1.xyz:80/Freddie/Freddie/171965
+#EXTINF:-1,PB | GURBANI HEALING
+http://directtv1.xyz:80/Freddie/Freddie/171966
+#EXTINF:-1,PB | GURBANI TV HD
+http://directtv1.xyz:80/Freddie/Freddie/172028
+#EXTINF:-1,PB | Hamdard Laugther HD
+http://directtv1.xyz:80/Freddie/Freddie/171967
+#EXTINF:-1,PB | HULCHUL TV
+http://directtv1.xyz:80/Freddie/Freddie/171968
+#EXTINF:-1,PB | Indoz TV
+http://directtv1.xyz:80/Freddie/Freddie/171969
+#EXTINF:-1,PB | JHANJAR MUSIC HD
+http://directtv1.xyz:80/Freddie/Freddie/171970
+#EXTINF:-1,PB | jigsa tv HD
+http://directtv1.xyz:80/Freddie/Freddie/172022
+#EXTINF:-1,PB | JUS Punjabi HD
+http://directtv1.xyz:80/Freddie/Freddie/172023
+#EXTINF:-1,PB | JUS_ONE_HD (JIO)
+http://directtv1.xyz:80/Freddie/Freddie/172031
+#EXTINF:-1,PB | JUS_PUNJABI_HD (JIO)
+http://directtv1.xyz:80/Freddie/Freddie/172032
+#EXTINF:-1,PB | Khalistan TV HD
+http://directtv1.xyz:80/Freddie/Freddie/171972
+#EXTINF:-1,PB | Khalsa TV HD (UK)
+http://directtv1.xyz:80/Freddie/Freddie/172021
+#EXTINF:-1,PB | Live Harmandir Sahib HD
+http://directtv1.xyz:80/Freddie/Freddie/172019
+#EXTINF:-1,PB | living india news HD
+http://directtv1.xyz:80/Freddie/Freddie/171975
+#EXTINF:-1,PB | Mhone music HD
+http://directtv1.xyz:80/Freddie/Freddie/171977
+#EXTINF:-1,PB | mhone-news
+http://directtv1.xyz:80/Freddie/Freddie/171978
+#EXTINF:-1,PB | Mr Singh Production HD
+http://directtv1.xyz:80/Freddie/Freddie/172020
+#EXTINF:-1,PB | Namdhari TV
+http://directtv1.xyz:80/Freddie/Freddie/172012
+#EXTINF:-1,PB | News18 Punjab/Haryana/Himachal
+http://directtv1.xyz:80/Freddie/Freddie/171979
+#EXTINF:-1,PB | PARDES TV HD
+http://directtv1.xyz:80/Freddie/Freddie/171982
+#EXTINF:-1,PB | Pittara TV HD
+http://directtv1.xyz:80/Freddie/Freddie/171983
+#EXTINF:-1,PB | Prime Asia HD
+http://directtv1.xyz:80/Freddie/Freddie/171984
+#EXTINF:-1,PB | PRIME CANADA TV
+http://directtv1.xyz:80/Freddie/Freddie/171985
+#EXTINF:-1,PB | PTC CHAKDE
+http://directtv1.xyz:80/Freddie/Freddie/171986
+#EXTINF:-1,PB | PTC DHOL HD *jio*
+http://directtv1.xyz:80/Freddie/Freddie/171987
+#EXTINF:-1,PB | PTC MUSIC HD
+http://directtv1.xyz:80/Freddie/Freddie/171988
+#EXTINF:-1,PB | PTC NEWS
+http://directtv1.xyz:80/Freddie/Freddie/171989
+#EXTINF:-1,PB | PTC SIMRAN HD
+http://directtv1.xyz:80/Freddie/Freddie/171990
+#EXTINF:-1,PB | PTC_Punjabi (UK)
+http://directtv1.xyz:80/Freddie/Freddie/171991
+#EXTINF:-1,PB | PTC_Punjabi IND
+http://directtv1.xyz:80/Freddie/Freddie/171992
+#EXTINF:-1,PB | PTC_Punjabi_Gold HD
+http://directtv1.xyz:80/Freddie/Freddie/172015
+#EXTINF:-1,PB | Ptunes Hd *Music*
+http://directtv1.xyz:80/Freddie/Freddie/171948
+#EXTINF:-1,PB | PTV Pardesi
+http://directtv1.xyz:80/Freddie/Freddie/171993
+#EXTINF:-1,PB | Punjab National HD
+http://directtv1.xyz:80/Freddie/Freddie/171971
+#EXTINF:-1,PB | Punjabi Hit International
+http://directtv1.xyz:80/Freddie/Freddie/172033
+#EXTINF:-1,PB | Punjabi Junction HD
+http://directtv1.xyz:80/Freddie/Freddie/171994
+#EXTINF:-1,PB | Punjabi Star Canada
+http://directtv1.xyz:80/Freddie/Freddie/171995
+#EXTINF:-1,PB | PUNJABI ZINDABAAD
+http://directtv1.xyz:80/Freddie/Freddie/171997
+#EXTINF:-1,PB | Ranjgal_tv
+http://directtv1.xyz:80/Freddie/Freddie/172005
+#EXTINF:-1,PB | Ratwara Sahib
+http://directtv1.xyz:80/Freddie/Freddie/171974
+#EXTINF:-1,PB | Raunak Punjab Dee
+http://directtv1.xyz:80/Freddie/Freddie/171998
+#EXTINF:-1,PB | SADA TV HD
+http://directtv1.xyz:80/Freddie/Freddie/171999
+#EXTINF:-1,PB | Safar TV
+http://directtv1.xyz:80/Freddie/Freddie/171996
+#EXTINF:-1,PB | Sahib TV (Ranjit singh Dhadriawale)
+http://directtv1.xyz:80/Freddie/Freddie/172000
+#EXTINF:-1,PB | saint_tv
+http://directtv1.xyz:80/Freddie/Freddie/172001
+#EXTINF:-1,PB | Sangat Tv (UK)
+http://directtv1.xyz:80/Freddie/Freddie/172016
+#EXTINF:-1,PB | SARDARI TV
+http://directtv1.xyz:80/Freddie/Freddie/172002
+#EXTINF:-1,PB | Sikh Channel (UK)
+http://directtv1.xyz:80/Freddie/Freddie/172003
+#EXTINF:-1,PB | SIKH Channel Usa
+http://directtv1.xyz:80/Freddie/Freddie/172004
+#EXTINF:-1,PB | Sikhi Lehar TV(MY)
+http://directtv1.xyz:80/Freddie/Freddie/172024
+#EXTINF:-1,PB | Sikhi TV HD
+http://directtv1.xyz:80/Freddie/Freddie/171973
+#EXTINF:-1,PB | Sounds of ZEE5 - Punjabi Beats
+http://directtv1.xyz:80/Freddie/Freddie/172027
+#EXTINF:-1,PB | Sri Guru Singh Sabha Malton
+http://directtv1.xyz:80/Freddie/Freddie/172026
+#EXTINF:-1,PB | Steelbird Music HD
+http://directtv1.xyz:80/Freddie/Freddie/172018
+#EXTINF:-1,PB | TANGY PUNJABI TV
+http://directtv1.xyz:80/Freddie/Freddie/172007
+#EXTINF:-1,PB | TV PUNJAB HD
+http://directtv1.xyz:80/Freddie/Freddie/172029
+#EXTINF:-1,PB | Vision Punjab Gurbani
+http://directtv1.xyz:80/Freddie/Freddie/172009
+#EXTINF:-1,PB | Vision Punjab Music
+http://directtv1.xyz:80/Freddie/Freddie/172010
+#EXTINF:-1,PB | Vision Punjab TV
+http://directtv1.xyz:80/Freddie/Freddie/172011
+#EXTINF:-1,PB | World Punjabi HD
+http://directtv1.xyz:80/Freddie/Freddie/172030
+#EXTINF:-1,PB | Zee Punjab HD
+http://directtv1.xyz:80/Freddie/Freddie/172013
+#EXTINF:-1,PB | Zee Punjabi News
+http://directtv1.xyz:80/Freddie/Freddie/172014
+#EXTINF:-1,PK | 24 NEWS
+http://directtv1.xyz:80/Freddie/Freddie/134919
+#EXTINF:-1,PK | 8XM HD
+http://directtv1.xyz:80/Freddie/Freddie/134955
+#EXTINF:-1,PK | 92 NEWS HD
+http://directtv1.xyz:80/Freddie/Freddie/134904
+#EXTINF:-1,PK | 92 NEWS-HD
+http://directtv1.xyz:80/Freddie/Freddie/134905
+#EXTINF:-1,PK | A PLUS HD
+http://directtv1.xyz:80/Freddie/Freddie/134952
+#EXTINF:-1,PK | AAJ ENTERTAINMENT
+http://directtv1.xyz:80/Freddie/Freddie/134945
+#EXTINF:-1,PK | AAJ NEWS
+http://directtv1.xyz:80/Freddie/Freddie/134925
+#EXTINF:-1,PK | ABB TAK
+http://directtv1.xyz:80/Freddie/Freddie/134927
+#EXTINF:-1,PK | APNA CHANNEL
+http://directtv1.xyz:80/Freddie/Freddie/134948
+#EXTINF:-1,PK | ARUG TV (OPEN)
+http://directtv1.xyz:80/Freddie/Freddie/134967
+#EXTINF:-1,PK | ARY DIGITAL
+http://directtv1.xyz:80/Freddie/Freddie/134934
+#EXTINF:-1,PK | ARY FAMILY
+http://directtv1.xyz:80/Freddie/Freddie/134941
+#EXTINF:-1,PK | ARY MUSIC
+http://directtv1.xyz:80/Freddie/Freddie/134956
+#EXTINF:-1,PK | ARY NEWS
+http://directtv1.xyz:80/Freddie/Freddie/134909
+#EXTINF:-1,PK | ARY ZINDAGI
+http://directtv1.xyz:80/Freddie/Freddie/134944
+#EXTINF:-1,PK | ARY-DIGITAL
+http://directtv1.xyz:80/Freddie/Freddie/134935
+#EXTINF:-1,PK | ARY-NEWS
+http://directtv1.xyz:80/Freddie/Freddie/134910
+#EXTINF:-1,PK | ATV
+http://directtv1.xyz:80/Freddie/Freddie/134962
+#EXTINF:-1,PK | BOL ENTERTENMENT HD
+http://directtv1.xyz:80/Freddie/Freddie/134938
+#EXTINF:-1,PK | BOL ENTERTENMENT-HD
+http://directtv1.xyz:80/Freddie/Freddie/134939
+#EXTINF:-1,PK | BOL NEWS HD
+http://directtv1.xyz:80/Freddie/Freddie/134913
+#EXTINF:-1,PK | BOL NEWS-HD
+http://directtv1.xyz:80/Freddie/Freddie/134914
+#EXTINF:-1,PK | CAPITAL NEWS
+http://directtv1.xyz:80/Freddie/Freddie/134957
+#EXTINF:-1,PK | CITY 41 NEWS
+http://directtv1.xyz:80/Freddie/Freddie/134970
+#EXTINF:-1,PK | CITY 42 NEWS
+http://directtv1.xyz:80/Freddie/Freddie/134971
+#EXTINF:-1,PK | CITY 44
+http://directtv1.xyz:80/Freddie/Freddie/134969
+#EXTINF:-1,PK | DAWN NEWS
+http://directtv1.xyz:80/Freddie/Freddie/134920
+#EXTINF:-1,PK | DUNYA NEWS
+http://directtv1.xyz:80/Freddie/Freddie/134915
+#EXTINF:-1,PK | DUNYA-NEWS
+http://directtv1.xyz:80/Freddie/Freddie/134916
+#EXTINF:-1,PK | EXPRESS ENT
+http://directtv1.xyz:80/Freddie/Freddie/134949
+#EXTINF:-1,PK | EXPRESS NEWS
+http://directtv1.xyz:80/Freddie/Freddie/134921
+#EXTINF:-1,PK | FILM WORLD
+http://directtv1.xyz:80/Freddie/Freddie/134974
+#EXTINF:-1,PK | GEO ENTERTAINMENT HD
+http://directtv1.xyz:80/Freddie/Freddie/134936
+#EXTINF:-1,PK | GEO ENTERTAINMENT-HD
+http://directtv1.xyz:80/Freddie/Freddie/134937
+#EXTINF:-1,PK | GEO KAHANI HD
+http://directtv1.xyz:80/Freddie/Freddie/134942
+#EXTINF:-1,PK | GEO NEWS
+http://directtv1.xyz:80/Freddie/Freddie/134917
+#EXTINF:-1,PK | GEO-NEWS
+http://directtv1.xyz:80/Freddie/Freddie/134918
+#EXTINF:-1,PK | GNN FHD
+http://directtv1.xyz:80/Freddie/Freddie/134906
+#EXTINF:-1,PK | HUM MASALA TV
+http://directtv1.xyz:80/Freddie/Freddie/134946
+#EXTINF:-1,PK | HUM NEWS HD
+http://directtv1.xyz:80/Freddie/Freddie/134907
+#EXTINF:-1,PK | HUM NEWS-HD
+http://directtv1.xyz:80/Freddie/Freddie/134908
+#EXTINF:-1,PK | HUM SITARAY
+http://directtv1.xyz:80/Freddie/Freddie/134943
+#EXTINF:-1,PK | HUM TV HD
+http://directtv1.xyz:80/Freddie/Freddie/134931
+#EXTINF:-1,PK | HUM TV WORLD
+http://directtv1.xyz:80/Freddie/Freddie/134933
+#EXTINF:-1,PK | HUM TV-HD
+http://directtv1.xyz:80/Freddie/Freddie/134932
+#EXTINF:-1,PK | JALWA
+http://directtv1.xyz:80/Freddie/Freddie/134954
+#EXTINF:-1,PK | KHYBER NEWS
+http://directtv1.xyz:80/Freddie/Freddie/134966
+#EXTINF:-1,PK | KHYBER TV
+http://directtv1.xyz:80/Freddie/Freddie/134965
+#EXTINF:-1,PK | KTN ENTERTENMENT
+http://directtv1.xyz:80/Freddie/Freddie/134963
+#EXTINF:-1,PK | KTN NEWS
+http://directtv1.xyz:80/Freddie/Freddie/134972
+#EXTINF:-1,PK | LAHORE NEWS
+http://directtv1.xyz:80/Freddie/Freddie/134923
+#EXTINF:-1,PK | LAHORE RANG
+http://directtv1.xyz:80/Freddie/Freddie/134924
+#EXTINF:-1,PK | LTN FAMILY HD
+http://directtv1.xyz:80/Freddie/Freddie/134947
+#EXTINF:-1,PK | NEO NEWS HD
+http://directtv1.xyz:80/Freddie/Freddie/134929
+#EXTINF:-1,PK | NEWS ONE
+http://directtv1.xyz:80/Freddie/Freddie/134926
+#EXTINF:-1,PK | PAIGHAM PASHTO
+http://directtv1.xyz:80/Freddie/Freddie/134975
+#EXTINF:-1,PK | PASHTO 1
+http://directtv1.xyz:80/Freddie/Freddie/134973
+#EXTINF:-1,PK | PLAY TV
+http://directtv1.xyz:80/Freddie/Freddie/134950
+#EXTINF:-1,PK | PTV GLOBAL
+http://directtv1.xyz:80/Freddie/Freddie/134960
+#EXTINF:-1,PK | PTV HOME
+http://directtv1.xyz:80/Freddie/Freddie/134953
+#EXTINF:-1,PK | PTV NATIONAL
+http://directtv1.xyz:80/Freddie/Freddie/134961
+#EXTINF:-1,PK | PTV NEWS
+http://directtv1.xyz:80/Freddie/Freddie/134930
+#EXTINF:-1,PK | PUBLIC NEWS HD
+http://directtv1.xyz:80/Freddie/Freddie/134922
+#EXTINF:-1,PK | ROHI NEWS
+http://directtv1.xyz:80/Freddie/Freddie/134964
+#EXTINF:-1,PK | ROZ NEWS
+http://directtv1.xyz:80/Freddie/Freddie/134959
+#EXTINF:-1,PK | SAMAA NEWS
+http://directtv1.xyz:80/Freddie/Freddie/134911
+#EXTINF:-1,PK | SAMAA-NEWS
+http://directtv1.xyz:80/Freddie/Freddie/134912
+#EXTINF:-1,PK | SINDH NEWS (OPEN)
+http://directtv1.xyz:80/Freddie/Freddie/134968
+#EXTINF:-1,PK | SINDH TV
+http://directtv1.xyz:80/Freddie/Freddie/134958
+#EXTINF:-1,PK | SUCH NEWS
+http://directtv1.xyz:80/Freddie/Freddie/134928
+#EXTINF:-1,PK | URDU 1 HD
+http://directtv1.xyz:80/Freddie/Freddie/134940
+#EXTINF:-1,PK | WASEEB HD
+http://directtv1.xyz:80/Freddie/Freddie/134951
+#EXTINF:-1,Marathi | Sony Marathi HD (jio)
+http://directtv1.xyz:80/Freddie/Freddie/172816
+#EXTINF:-1,Marathi | BBC Marthi-(jio)
+http://directtv1.xyz:80/Freddie/Freddie/172817
+#EXTINF:-1,Marathi | 9x Jhakaas  HD
+http://directtv1.xyz:80/Freddie/Freddie/172818
+#EXTINF:-1,Marathi | ABP Majha
+http://directtv1.xyz:80/Freddie/Freddie/172819
+#EXTINF:-1,Marathi | DD Sahyadri HD(lk)
+http://directtv1.xyz:80/Freddie/Freddie/172820
+#EXTINF:-1,Marathi | Fakt marathi
+http://directtv1.xyz:80/Freddie/Freddie/172821
+#EXTINF:-1,Marathi | News18 Lokmat
+http://directtv1.xyz:80/Freddie/Freddie/172822
+#EXTINF:-1,Marathi | TV9 Marathi HD
+http://directtv1.xyz:80/Freddie/Freddie/172823
+#EXTINF:-1,Marathi | Sangeet Marathi(lk)
+http://directtv1.xyz:80/Freddie/Freddie/172824
+#EXTINF:-1,Marathi | SAAM Marathi HD
+http://directtv1.xyz:80/Freddie/Freddie/172825
+#EXTINF:-1,Marathi | Zee Yuva.HD
+http://directtv1.xyz:80/Freddie/Freddie/172826
+#EXTINF:-1,Marathi | Zee Marathi HD
+http://directtv1.xyz:80/Freddie/Freddie/172827
+#EXTINF:-1,Marathi | Zee  24 Taas
+http://directtv1.xyz:80/Freddie/Freddie/172828
+#EXTINF:-1,Marathi | ZEE Marathi (usa)
+http://directtv1.xyz:80/Freddie/Freddie/172829
+#EXTINF:-1,Marathi | Zee Talkies HD
+http://directtv1.xyz:80/Freddie/Freddie/172830
+#EXTINF:-1,Marathi | Zee Talkies HD
+http://directtv1.xyz:80/Freddie/Freddie/172831
+#EXTINF:-1,Marathi | Colors_Marathi | FHD (VIP)-Jio
+http://directtv1.xyz:80/Freddie/Freddie/172832
+#EXTINF:-1,Marathi | Mailboli (lk)
+http://directtv1.xyz:80/Freddie/Freddie/172833
+#EXTINF:-1,Marathi | sugran-tv HD
+http://directtv1.xyz:80/Freddie/Freddie/172834
+#EXTINF:-1,Tamil | 7startv HD
+http://directtv1.xyz:80/Freddie/Freddie/172956
+#EXTINF:-1,Tamil | AASTHA Tamil HD
+http://directtv1.xyz:80/Freddie/Freddie/172957
+#EXTINF:-1,Tamil | Akaram Mix
+http://directtv1.xyz:80/Freddie/Freddie/172958
+#EXTINF:-1,Tamil | Angel Tv HD (Europe)
+http://directtv1.xyz:80/Freddie/Freddie/172959
+#EXTINF:-1,Tamil | Angel Tv HD (IN)
+http://directtv1.xyz:80/Freddie/Freddie/172960
+#EXTINF:-1,Tamil | Angel Tv HD (USA)
+http://directtv1.xyz:80/Freddie/Freddie/172961
+#EXTINF:-1,Tamil | Captain TV
+http://directtv1.xyz:80/Freddie/Freddie/172962
+#EXTINF:-1,Tamil | Captain_News HD
+http://directtv1.xyz:80/Freddie/Freddie/172963
+#EXTINF:-1,Tamil | Colors Tamil HD (jio)
+http://directtv1.xyz:80/Freddie/Freddie/172964
+#EXTINF:-1,Tamil | DD Podhigai
+http://directtv1.xyz:80/Freddie/Freddie/172965
+#EXTINF:-1,Tamil | ETV Bharat Keralam
+http://directtv1.xyz:80/Freddie/Freddie/172966
+#EXTINF:-1,Tamil | Tune6 HD
+http://directtv1.xyz:80/Freddie/Freddie/172967
+#EXTINF:-1,Tamil | ibc canada HD
+http://directtv1.xyz:80/Freddie/Freddie/172968
+#EXTINF:-1,Tamil | IBC canada HD
+http://directtv1.xyz:80/Freddie/Freddie/172969
+#EXTINF:-1,Tamil | Ibc Music HD
+http://directtv1.xyz:80/Freddie/Freddie/172970
+#EXTINF:-1,Tamil | Ibc Siluvai HD
+http://directtv1.xyz:80/Freddie/Freddie/172971
+#EXTINF:-1,Tamil | IBC Tamil HD
+http://directtv1.xyz:80/Freddie/Freddie/172972
+#EXTINF:-1,Tamil | Jaya TV
+http://directtv1.xyz:80/Freddie/Freddie/172973
+#EXTINF:-1,Tamil | Jaya_Max HD(JIO)
+http://directtv1.xyz:80/Freddie/Freddie/172974
+#EXTINF:-1,Tamil | Jaya_Plus HD(jio)
+http://directtv1.xyz:80/Freddie/Freddie/172975
+#EXTINF:-1,Tamil | Kairali News HD
+http://directtv1.xyz:80/Freddie/Freddie/172976
+#EXTINF:-1,Tamil | Kalaignar TV News
+http://directtv1.xyz:80/Freddie/Freddie/172977
+#EXTINF:-1,Tamil | KTV  FHD (usa)
+http://directtv1.xyz:80/Freddie/Freddie/172978
+#EXTINF:-1,Tamil | KTV FHD (IND)
+http://directtv1.xyz:80/Freddie/Freddie/172979
+#EXTINF:-1,Tamil | KTV HD (UK)*
+http://directtv1.xyz:80/Freddie/Freddie/172980
+#EXTINF:-1,Tamil | Lotus News HD
+http://directtv1.xyz:80/Freddie/Freddie/172981
+#EXTINF:-1,Tamil | madha TV (Spirtual)
+http://directtv1.xyz:80/Freddie/Freddie/172982
+#EXTINF:-1,Tamil | madhatv HD
+http://directtv1.xyz:80/Freddie/Freddie/172983
+#EXTINF:-1,Tamil | Makkal TV HD
+http://directtv1.xyz:80/Freddie/Freddie/172984
+#EXTINF:-1,Tamil | News 18 Tamil Nadu HD
+http://directtv1.xyz:80/Freddie/Freddie/172985
+#EXTINF:-1,Tamil | News7 Tamil HD
+http://directtv1.xyz:80/Freddie/Freddie/172986
+#EXTINF:-1,Tamil | NewsJ HD
+http://directtv1.xyz:80/Freddie/Freddie/172987
+#EXTINF:-1,Tamil | Puthiya Thalaimurai TV HD
+http://directtv1.xyz:80/Freddie/Freddie/172988
+#EXTINF:-1,Tamil |  Polimer News
+http://directtv1.xyz:80/Freddie/Freddie/172989
+#EXTINF:-1,Tamil |  polimer tv HD (jio)
+http://directtv1.xyz:80/Freddie/Freddie/172990
+#EXTINF:-1,Tamil |  Puthuyugam TV
+http://directtv1.xyz:80/Freddie/Freddie/172991
+#EXTINF:-1,Tamil | Raj Digital Plush (jio)
+http://directtv1.xyz:80/Freddie/Freddie/172992
+#EXTINF:-1,Tamil | Raj TV (Airtal)
+http://directtv1.xyz:80/Freddie/Freddie/172993
+#EXTINF:-1,Tamil | Raj TV HD
+http://directtv1.xyz:80/Freddie/Freddie/172994
+#EXTINF:-1,Tamil | Sigaram TV
+http://directtv1.xyz:80/Freddie/Freddie/172995
+#EXTINF:-1,Tamil | Star Vijay INDIA FHD (VIP)
+http://directtv1.xyz:80/Freddie/Freddie/172996
+#EXTINF:-1,Tamil | Star VIJAY SUPER
+http://directtv1.xyz:80/Freddie/Freddie/172997
+#EXTINF:-1,Tamil | Sun Life HD (IND)*
+http://directtv1.xyz:80/Freddie/Freddie/172998
+#EXTINF:-1,Tamil | Sun Life HD (usa)*
+http://directtv1.xyz:80/Freddie/Freddie/172999
+#EXTINF:-1,Tamil | Sun Music HD VIP (usa)
+http://directtv1.xyz:80/Freddie/Freddie/173000
+#EXTINF:-1,Tamil | Sun TV HD (IND)*
+http://directtv1.xyz:80/Freddie/Freddie/173001
+#EXTINF:-1,Tamil | Sun TV HD (UK)*
+http://directtv1.xyz:80/Freddie/Freddie/173002
+#EXTINF:-1,Tamil | Sun TV HD (usa)*
+http://directtv1.xyz:80/Freddie/Freddie/173003
+#EXTINF:-1,Tamil | Sun_News
+http://directtv1.xyz:80/Freddie/Freddie/173004
+#EXTINF:-1,Tamil | Tamilvision HD
+http://directtv1.xyz:80/Freddie/Freddie/173005
+#EXTINF:-1,Tamil | Tollywood Movies
+http://directtv1.xyz:80/Freddie/Freddie/173006
+#EXTINF:-1,Tamil | Vendhar TV HD
+http://directtv1.xyz:80/Freddie/Freddie/173007
+#EXTINF:-1,Tamil |  Zee Tamil HD (Usa)
+http://directtv1.xyz:80/Freddie/Freddie/173008
+#EXTINF:-1,Tamil | Zee Thirai HD
+http://directtv1.xyz:80/Freddie/Freddie/173009
+#EXTINF:-1,Telugu | AASTHA Telugu HD
+http://directtv1.xyz:80/Freddie/Freddie/173010
+#EXTINF:-1,Telugu | ABN News
+http://directtv1.xyz:80/Freddie/Freddie/173011
+#EXTINF:-1,Telugu | 10TV  News HD
+http://directtv1.xyz:80/Freddie/Freddie/173012
+#EXTINF:-1,Telugu | 99TV Telugu HD
+http://directtv1.xyz:80/Freddie/Freddie/173013
+#EXTINF:-1,Telgu | Bhakthi TV (Spirtual))
+http://directtv1.xyz:80/Freddie/Freddie/173014
+#EXTINF:-1,Telgu | CVR English(lk)
+http://directtv1.xyz:80/Freddie/Freddie/173015
+#EXTINF:-1,Telgu | CVR News Telugu
+http://directtv1.xyz:80/Freddie/Freddie/173016
+#EXTINF:-1,Telgu | CVR OM HD(lk)
+http://directtv1.xyz:80/Freddie/Freddie/173017
+#EXTINF:-1,Telgu | GEMINI TV FHD (IND)
+http://directtv1.xyz:80/Freddie/Freddie/173018
+#EXTINF:-1,Telgu | GEMINI TV FHD (UK)
+http://directtv1.xyz:80/Freddie/Freddie/173019
+#EXTINF:-1,Telgu | GEMINI TV FHD (USA)
+http://directtv1.xyz:80/Freddie/Freddie/173020
+#EXTINF:-1,Telugu | GEMINI MOVIES FHD (IND)
+http://directtv1.xyz:80/Freddie/Freddie/173021
+#EXTINF:-1,Telugu | GEMINI MOVIES FHD (UK)
+http://directtv1.xyz:80/Freddie/Freddie/173022
+#EXTINF:-1,Telugu | GEMINI MOVIES FHD (usa)
+http://directtv1.xyz:80/Freddie/Freddie/173023
+#EXTINF:-1,Telugu | GEMINI LIFE HD (IND)
+http://directtv1.xyz:80/Freddie/Freddie/173024
+#EXTINF:-1,Telugu | GEMINI LIFE HD (UK)
+http://directtv1.xyz:80/Freddie/Freddie/173025
+#EXTINF:-1,Telugu | GEMINI LIFE HD (USA)
+http://directtv1.xyz:80/Freddie/Freddie/173026
+#EXTINF:-1,Telugu | GEMINI MUSIC HD (usa)
+http://directtv1.xyz:80/Freddie/Freddie/173027
+#EXTINF:-1,Telugu | GEMINI COMEDY FHD (VIP) SX
+http://directtv1.xyz:80/Freddie/Freddie/173028
+#EXTINF:-1,Telgu | Prime9 News HD
+http://directtv1.xyz:80/Freddie/Freddie/173029
+#EXTINF:-1,Telgu | Sakshi TV (News)
+http://directtv1.xyz:80/Freddie/Freddie/173030
+#EXTINF:-1,Telugu |  Mahaa News
+http://directtv1.xyz:80/Freddie/Freddie/173031
+#EXTINF:-1,Telugu | Hmtv
+http://directtv1.xyz:80/Freddie/Freddie/173032
+#EXTINF:-1,Telugu | Telugu Filmnagar
+http://directtv1.xyz:80/Freddie/Freddie/173033
+#EXTINF:-1,Telgu | NTV Telugu HD
+http://directtv1.xyz:80/Freddie/Freddie/173034
+#EXTINF:-1,Telugu | Star Maa Music HD
+http://directtv1.xyz:80/Freddie/Freddie/173035
+#EXTINF:-1,Telgu | SVBCTTD HD
+http://directtv1.xyz:80/Freddie/Freddie/173036
+#EXTINF:-1,Telugu | TV 5 News HD
+http://directtv1.xyz:80/Freddie/Freddie/173037
+#EXTINF:-1,Telugu | TV9 NEWS HD
+http://directtv1.xyz:80/Freddie/Freddie/173038
+#EXTINF:-1,Telugu | v6 News
+http://directtv1.xyz:80/Freddie/Freddie/173039
+#EXTINF:-1,Telugu | Vissa TV
+http://directtv1.xyz:80/Freddie/Freddie/173040
+#EXTINF:-1,Telugu | Zee Cinemalu HD
+http://directtv1.xyz:80/Freddie/Freddie/173041
+#EXTINF:-1,Telugu | Zee Telugu HD
+http://directtv1.xyz:80/Freddie/Freddie/173042
+#EXTINF:-1,Telgu | CVR Health(lk)
+http://directtv1.xyz:80/Freddie/Freddie/173043
+#EXTINF:-1,Telugu | Star Maa HD
